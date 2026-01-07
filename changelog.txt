@@ -1,4 +1,4 @@
-[What's new in scratchOS 1.18 (Security Update 1)?]
+[What's new in scratchOS Birch 1.18 (Security Update 1)?]
   Added features:
     -Hashing passwords for more security
     -Dynamic Settings
